@@ -1,0 +1,1 @@
+{'Apples taste good.', 'How are you today?', 'I like programming.', 'No', 'Hello there!', 'I am smart.', 'Yes', 'Is the weather good?', 'What is your favorite summer game?', 'Do you like exersising?', "I'm leaving.", 'What did you eat today?', 'I like to sing.'}
